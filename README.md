@@ -7,6 +7,7 @@
 <h3> Qompass AI on Pipewire </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-pipewire)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/pipewire/total?style=flat-square)
   <a href="https://pipewire.org/">
   <img src="https://img.shields.io/badge/PipeWire-AA1D35?style=for-the-badge" alt="PipeWire">
 </a>
